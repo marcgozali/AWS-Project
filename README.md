@@ -1,4 +1,4 @@
-# second-secondary
+# AWS-Project
 Secondary Project for AWS Internship
 
 # SageMaker notebook code for my secondary project
